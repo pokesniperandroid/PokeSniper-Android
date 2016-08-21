@@ -29,7 +29,7 @@ Make sure you have set all required settings, and type valid input.
 
 Try these standard troubleshooting steps:
 
-- Access settings, Apps, and select GO Simulator.
+- Access settings, Apps, and select PokeSniper.
 - Force Stop
 - Clear Cache
 - Clear Data
