@@ -1,34 +1,37 @@
 ## DOWNLOAD LINK
-
-Navigate to releases page, and download latest release.
-
 [LINK](../../releases)
 
 ## IMPORTANT
+To avoid softban, please check first in Offiical App and catch a pokemon. If pokemon's result is flee, then your account is softban.
+
 **Home Coordinates**
-This coordinates are the last coordinates you play. If you were playing with bot, use the last coordinates on that bot. If not, the last coordinates you login into Pokemon GO.
+
+Set this value to the last coordinates when you play, there's 3 categories to set this coordinates:
+1. Official App
+When you're using the Official App, please use that last coordinates used in Official app.
+2. Bot
+This coordinates a bit difficult, because bot is always moving its position/coordinates. Sometimes after you were botting then using this app, you'll get softban.
+3. Sniper
+When you use sniper program (Android or PC), use the value from that program and don't change it.
+
+With these 3 categories, we have tested it and the result we didn't get any softban so far.
 
 ## PokeSniper - Snipe Those Bitches!
-
-Upon installing the app, always try to move it to system applications in order to give it priority. This will make the app work better and crash less.
-
-Always remove the previous version completely and reboot before installing the update.
+PokeSniper is an android app used for catching any rare pokemon without getting softban. Always uninstall previouse version before using latest version (if you encounter force close).
 
 
-## Q&A
+## FAQ
+**Pokemon always fled**
 
-**Always failed to catch pokemon! Why?**
+You are getting softban. Wait for 10 minutes - 6 hours, if your follow the guides about home coordinats, you shouldn't get softbanned.
 
-You are softbanned. Don't jump continents, or wait 10 minutes - 6 hours logged out before you do. The app has been set to avoid softbanning, but there's still a chance that soft ban will happen because using third party API.
+**Why does the app force close on startup?**
 
-**Why does the app crash on startup?**
-
-Intel based android phones are supported, but still worked on.    
-Find out your phone API and Google your model if you are not sure before posting for help.
+Try to uninstall previous version then install latest version. If problem is still persist, please don't hesitate to report.
 
 **App crashes when I press "Snipe Those Bitches!" button**
 
-Make sure you have set all required settings, and type valid input.
+Make sure you have set all required settings, accounts, and type valid input.
 
 **I am receiving errors, force closes, etc:**
 
