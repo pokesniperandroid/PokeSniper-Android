@@ -7,12 +7,13 @@ To avoid softban, please check first in Offiical App and catch a pokemon. If pok
 **Home Coordinates**
 
 Set this value to the last coordinates when you play, there's 3 categories to set this coordinates:
+
 1. Official App
-When you're using the Official App, please use that last coordinates used in Official app.
+    - When you're using the Official App, please use that last coordinates used in Official app.
 2. Bot
-This coordinates a bit difficult, because bot is always moving its position/coordinates. Sometimes after you were botting then using this app, you'll get softban.
+    - This coordinates a bit difficult, because bot is always moving its position/coordinates. Sometimes after you were botting then using this app, you'll get softban.
 3. Sniper
-When you use sniper program (Android or PC), use the value from that program and don't change it.
+    - When you use sniper program (Android or PC), use the value from that program and don't change it.
 
 With these 3 categories, we have tested it and the result we didn't get any softban so far.
 
@@ -32,6 +33,10 @@ Try to uninstall previous version then install latest version. If problem is sti
 **App crashes when I press "Snipe Those Bitches!" button**
 
 Make sure you have set all required settings, accounts, and type valid input.
+
+** I couldn't verify my donation, always says invalid **
+
+As of v1.4, donation can be verified by using your paypal email address. And if you're still using v1.3, please update it to v1.4+ (**IMPORTANT**)
 
 **I am receiving errors, force closes, etc:**
 
