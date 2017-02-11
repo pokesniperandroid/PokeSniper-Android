@@ -1,5 +1,5 @@
 ## DOWNLOAD LINK
-[LINK](../../releases)
+[LINK](../../releases) v1.5.2
 
 ## IMPORTANT
 To avoid softban, please check first in Offiical App and catch a pokemon. If pokemon's result is flee, then your account is softban.
